@@ -1,7 +1,6 @@
 {
 	"name": "5e SRD",
 	"id": "5e-srd",
-	"file": "5e-srd.json",
 	"creatures": [
 		{
 			"name": "Aboleth",
